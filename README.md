@@ -4,6 +4,8 @@
 
 Based on the data set from cars.com, estimate if the SellerRating is greater than or equal to 4.5
 
+The data set is from https://www.kaggle.com/datasets/chancev/carsforsale
+
 ## Solution
 
 I use the following strategy.
